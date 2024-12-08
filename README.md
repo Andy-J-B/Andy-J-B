@@ -11,6 +11,20 @@ Hi there! I'm Andy, a passionate **Second Year Computer Science student at SFU**
 
 ---
 
+### GitHub Stats:
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andy-J-B&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andy-J-B&layout=compact&theme=dark)
+
+### Streak Stats:
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Andy-J-B&theme=dark&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Andy-J-B&color=orange&style=flat-square)
+
+---
+
 ## 🔧 My Key Projects  
 ### [ClearWrite](https://github.com/Andy-J-B/ClearWrite)  
 A free, React-based essay proofreading and recommendation app designed for students and educators to improve writing skills.  
