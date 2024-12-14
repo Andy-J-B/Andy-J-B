@@ -65,6 +65,6 @@ A React project focused on financial analysis and portfolio management, enabling
 ## 🤝 Let’s Connect!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/andyjbae/)  
 - 🌐 [Portfolio Website](https://andy-j-b.github.io/)  
-- 📧 **Email**: [your-email@example.com](mailto:080.abae@gmail.com)  
+- 📧 **Email**: [080.abae@gmail.com](mailto:080.abae@gmail.com)  
 
 Feel free to explore my repositories, contribute, or just say hi!  
