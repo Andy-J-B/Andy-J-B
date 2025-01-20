@@ -2,6 +2,8 @@
 
 Hi there! I'm Andy, a passionate **Second Year Computer Science student at SFU**. I love solving problems, building efficient solutions, and diving deep into technology. Here, you can explore my projects, achievements, and skills.
 
+🌐 [Check out my website!](https://andyspersonalwebsite.vercel.app/)
+
 ---
 
 ## 🌟 About Me  
@@ -49,7 +51,7 @@ A React project focused on financial analysis and portfolio management, enabling
 ## 🛠️ Skills & Tools  
 
 **Languages**: JavaScript, HTML, CSS, Python, C, C++, MATLAB, SQL  
-**Frameworks & Libraries**: React, Node.js, Express.js, Godot  
+**Frameworks & Libraries**: React, Node.js, Express.js, Godot, Three.js
 **Tools & Platforms**: Git, PostgreSQL, Netlify, Render, Postman, Jest, macOS, Linux  
 **Transferable Skills**: Fluent in **French**, **Korean**, and **English**  
 
@@ -64,7 +66,7 @@ A React project focused on financial analysis and portfolio management, enabling
 
 ## 🤝 Let’s Connect!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/andyjbae/)  
-- 🌐 [Portfolio Website](https://andy-j-b.github.io/)  
+- 🌐 [Portfolio Website](https://andyspersonalwebsite.vercel.app/)
 - 📧 **Email**: [080.abae@gmail.com](mailto:080.abae@gmail.com)  
 
 Feel free to explore my repositories, contribute, or just say hi!  
