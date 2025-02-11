@@ -51,12 +51,16 @@ This role will allow me to apply my problem-solving skills in a real-world setti
 A free, React-based essay proofreading and recommendation app designed for students and educators to improve writing skills.  
 - 🛠️ **Role**: Scrum Master & Developer  
 - 🚀 **Stack**: React, Node.js, TextGears API, Vite, Jest, Netlify, Render  
-- 🌟 **Features**: Grammar correction, readability grading, ai detection, sentence rephrasing, tone detection, and essay summarization.  
+- 🌟 **Features**: Grammar correction, readability grading, ai detection, sentence rephrasing, tone detection, and essay summarization.
+- 📝 **What We Built**:  
+  ClearWrite is a **writing assistant tool** that analyzes essays and provides real-time feedback without rewriting content. Users receive **grammar corrections, readability scores, AI detection analysis, and tone adjustments** to refine their writing. The platform integrates **TextGears API** for language processing and features a **clean, responsive UI** for seamless interaction. Built with **React and Node.js**, it ensures fast performance and reliable suggestions, making it a valuable tool for students and educators.  
 
 ### [Faster Than Light Yagami](https://github.com/Andy-J-B/FallHacks2024)
 A Godot game that won **1st place** at Fall Hacks 2024, organized by the Computer Science Student Society.  
 - 🕹️ **Role**: Game Developer  
-- 🏆 Recognized among 40 competing groups for innovation and design.  
+- 🏆 Recognized among 40 competing groups for innovation and design.
+- 🎮 **What We Built**:  
+  Faster Than Light Yagami is a fast-paced **speed typing game** where players must type words correctly before the shrinking time limit runs out. As the game progresses, words get **longer and more difficult**, and the challenge intensifies. The game features **real-time text validation** with color feedback (green for correct, red for incorrect), a **(sometimes functional) leaderboard**, and **audio-visual elements** that enhance the experience.   
 
 ### Stock Trading Algorithm 
 A React project focused on financial analysis and portfolio management, enabling users to calculate and track their net worth.  
