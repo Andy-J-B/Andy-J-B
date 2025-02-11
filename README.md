@@ -1,13 +1,13 @@
 # 👋 Welcome to Andy-J-B's GitHub!  
 
-Hi there! I'm Andy, a passionate **Second Year Computer Science student at SFU**. I love solving problems, building efficient solutions, and diving deep into technology. Here, you can explore my projects, achievements, and skills.
+Hi there! I'm Andy, a passionate **Second Year Computer Science student at SFU**. I love solving problems, going to hackathons, and diving deep into technology. Here, you can explore my projects, achievements, and skills.
 
 🌐 [Check out my website!](https://andyspersonalwebsite.vercel.app/)
 
 ---
 
 ## 🌟 About Me  
-- 🎓 **2nd-year Computer Science major** with interests in software engineering, web development, and game design.  
+- 🎓 **2nd-year Computer Science major** with interests in software engineering, web development, and machine learning.  
 - 🏀 In my free time, I enjoy playing basketball, working out at the gym, and spending time with my dogs.  
 - 🧑‍💻 I thrive on challenging projects, whether it’s creating dynamic web apps, writing efficient algorithms, or developing engaging games.  
 
@@ -24,6 +24,25 @@ Hi there! I'm Andy, a passionate **Second Year Computer Science student at SFU**
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Andy-J-B&theme=dark&hide_border=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Andy-J-B&color=orange&style=flat-square)
+
+---
+
+## 💼 My Experience  
+
+### **Test Developer Co-op at Motorola Solutions** (Summer 2025)
+I will be joining **Motorola Solutions** as a **Test Developer Co-op** on the **Appliance Testing Team**, where I will help validate and improve the quality of AI-driven surveillance solutions.  
+
+- 🛠️ **Role**: Developing and automating tests to ensure the performance and reliability of Avigilon's security products.  
+- 🔍 **Focus**: Testing hardware and software platforms, performance analysis, and defect reporting using JIRA.  
+- 🚀 **Tech Stacks**: Python, Selenium, C#, PowerShell, Linux, IP Networking.  
+- 🤖 **Key Responsibilities**:  
+  - Creating, executing, and maintaining test plans and test scripts.  
+  - Identifying performance bottlenecks and recommending improvements.  
+  - Developing internal tools to support testing and development teams.  
+  - Setting up and maintaining complex test environments.
+  - Automation, performance and manual testing.
+
+This role will allow me to apply my problem-solving skills in a real-world setting while contributing to cutting-edge security technologies.
 
 ---
 
