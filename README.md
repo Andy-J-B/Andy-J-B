@@ -62,22 +62,6 @@ A Godot game that won **1st place** at Fall Hacks 2024, organized by the Compute
 - 🎮 **What We Built**:  
   Faster Than Light Yagami is a fast-paced **speed typing game** where players must type words correctly before the shrinking time limit runs out. As the game progresses, words get **longer and more difficult**, and the challenge intensifies. The game features **real-time text validation** with color feedback (green for correct, red for incorrect), a **(sometimes functional) leaderboard**, and **audio-visual elements** that enhance the experience.   
 
-### Stock Trading Algorithm 
-A React project focused on financial analysis and portfolio management, enabling users to calculate and track their net worth.  
-- 🤝 **Role**: Software Developer  
-- 👥 Collaborated with a team of seven to develop, test, and debug a **stock trading algorithm**.  
-- 🔧 Contributed to designing a core system that utilizes **regression lines** to signal **buy**, **sell**, and **hold** decisions within the trading algorithm.  
-
-
----
-
-## 🛠️ Skills & Tools  
-
-**Languages**: JavaScript, HTML, CSS, Python, C, C++, MATLAB, SQL  
-**Frameworks & Libraries**: React, Node.js, Express.js, Godot, Three.js
-**Tools & Platforms**: Git, PostgreSQL, Netlify, Render, Postman, Jest, macOS, Linux  
-**Transferable Skills**: Fluent in **French**, **Korean**, and **English**  
-
 ---
 
 ## 🚀 Goals  
