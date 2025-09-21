@@ -1,6 +1,6 @@
 # 👋 Welcome to Andy-J-B's GitHub!  
 
-Hi there! I'm Andy, a passionate **Second Year Computer Science student at SFU**. I love solving problems, going to hackathons, and diving deep into technology. Here, you can explore my projects, achievements, and skills.
+Hi there! I'm Andy, a passionate **Third Year Computer Science student at SFU**. I love solving problems, going to hackathons, and diving deep into technology. Here, you can explore my projects, achievements, and skills.
 
 🌐 [Check out my website!](https://andyspersonalwebsite.vercel.app/)
 
